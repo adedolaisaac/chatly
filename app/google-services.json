@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588079688082",
+    "firebase_url": "https://telegram-2-0-base.firebaseio.com",
+    "project_id": "telegram-2-0-base",
+    "storage_bucket": "telegram-2-0-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588079688082:android:bf7bd270303e95550f394b",
+        "android_client_info": {
+          "package_name": "com.example.chatly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588079688082-bl9gs12cjoe7q5bd58akjag6bni0thl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatly",
+            "certificate_hash": "028d63f803675e7e9bb8a3047a72d4df2f82ba26"
+          }
+        },
+        {
+          "client_id": "588079688082-f2l05naalgcb0e8osqfsjav1j0pn6omv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnm0fyUU738In41_3DkyZT7j_yyg4eCqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588079688082-f2l05naalgcb0e8osqfsjav1j0pn6omv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
